@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anirbansarkar823
-- 👀 I’m interested in data science projects and competitive programming
-- 🌱 I’m currently learning both data science and competitive programming
+- 👋 Hi, I’m Anirban Sarkar
+- 👀 I’m interested in data science projects and love to solve competitive programming questions on weekends
+- 🌱 I’m currently learning Machine Learning and Deep learning algorithms and also am a Data Engineer by profession thus learning to understand data
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me: via mail - anirbansarkar823@gmail.com
 
