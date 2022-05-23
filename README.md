@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anirban Sarkar
-- 👀 I’m interested in data science projects and love to solve competitive programming questions on weekends
-- 🌱 I’m currently learning Machine Learning and Deep learning algorithms and also am a Data Engineer by profession thus learning to understand data
+- 👀 I’m interested in problems that can be solved by data science tools and techniques. I also love solving programming questions.
+- 🌱 I’m currently working on various real life data science use-cases and using Machine Learning and Deep learning algorithms to solve them.
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me: via mail - anirbansarkar823@gmail.com
 
